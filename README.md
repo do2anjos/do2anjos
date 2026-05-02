@@ -25,7 +25,7 @@ Here you'll find my projects, experiments and learning journey in web developmen
 
 ### 💻 Tech Stack (Média de Projetos)
 
-![Tech Stack](https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27HTML%27%2C%27JavaScript%27%2C%27C%23%27%2C%27CSS%27%2C%27TypeScript%27%2C%27Python%27%2C%27SQL%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B38.1%2C20.5%2C17.1%2C13.4%2C7.9%2C2.8%2C0.2%5D%2CbackgroundColor%3A%5B%27%23e34c26%27%2C%27%23f1e05a%27%2C%27%23178600%27%2C%27%23563d7c%27%2C%27%233178c6%27%2C%27%233572A5%27%2C%27%23e38c00%27%5D%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27white%27%7D%7D%2Cplugins%3A%7Bdatalabels%3A%7Bdisplay%3Atrue%2Ccolor%3A%27black%27%2Cfont%3A%7Bweight%3A%27bold%27%7D%7D%7D%7D%7D)
+![Tech Stack](https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27HTML%27%2C%27JavaScript%27%2C%27C%23%27%2C%27CSS%27%2C%27TypeScript%27%2C%27Python%27%2C%27SQL%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B38.1%2C20.5%2C17.1%2C13.4%2C7.9%2C2.8%2C0.2%5D%2CbackgroundColor%3A%5B%27%23e34c26%27%2C%27%23f1e05a%27%2C%27%23178600%27%2C%27%23563d7c%27%2C%27%233178c6%27%2C%27%233572A5%27%2C%27%23e38c00%27%5D%7D%5D%7D%2Coptions%3A%7Brotation%3A120%2Clegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27white%27%7D%7D%2Cplugins%3A%7Bdatalabels%3A%7Bdisplay%3A%27auto%27%2Ccolor%3A%27black%27%2Cfont%3A%7Bweight%3A%27bold%27%7D%2Canchor%3A%27end%27%2Calign%3A%27start%27%7D%7D%7D%7D)
 
 ---
 
