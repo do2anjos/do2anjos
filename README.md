@@ -25,13 +25,14 @@ Here you'll find my projects, experiments and learning journey in web developmen
 
 ### 💻 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do2anjos&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=do2anjos&theme=monokai)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=do2anjos&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=0d1117)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=do2anjos&theme=monokai)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=do2anjos&theme=tokyonight&hide_border=true)
 
 ---
 
