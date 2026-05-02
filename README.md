@@ -6,7 +6,7 @@
 
 ---
 
-I love turning ideas into real products — from the interface to the server.
+I love turning ideas into real products from the interface to the server.
 Here you'll find my projects, experiments and learning journey in web development 🚀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/do2anjos/)
@@ -17,8 +17,8 @@ Here you'll find my projects, experiments and learning journey in web developmen
 ### 🧠 About Me
 
 * 🌐 Fullstack developer focused on web applications
-* AI/Computer Vision Resacher
-* 💻 Working with **Web Tecnologies, Pythonm, C#** and always learning more
+* 🔬 AI/Computer Vision Resacher
+* 💻 Working with **Web Tecnologies, Python, C#** and always learning more
 * 🎯 Building projects that solve real problems
 * 📚 Constantly improving my skills and exploring new technologies
 
