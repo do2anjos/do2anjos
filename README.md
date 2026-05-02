@@ -25,15 +25,7 @@ Here you'll find my projects, experiments and learning journey in web developmen
 
 ### 💻 Tech Stack (Média de Projetos)
 
-| Linguagem | Porcentagem | Barra de Progresso |
-| :--- | :--- | :--- |
-| **HTML** | 38.1% | ![HTML](https://progress-bar.dev/38/?scale=100&color=e34c26&width=200) |
-| **JavaScript** | 20.5% | ![JS](https://progress-bar.dev/20/?scale=100&color=f1e05a&width=200) |
-| **C#** | 17.1% | ![C#](https://progress-bar.dev/17/?scale=100&color=178600&width=200) |
-| **CSS** | 13.4% | ![CSS](https://progress-bar.dev/13/?scale=100&color=563d7c&width=200) |
-| **TypeScript** | 7.9% | ![TS](https://progress-bar.dev/8/?scale=100&color=3178c6&width=200) |
-| **Python** | 2.8% | ![PY](https://progress-bar.dev/3/?scale=100&color=3572A5&width=200) |
-| **SQL** | 0.2% | ![SQL](https://progress-bar.dev/0/?scale=100&color=e38c00&width=200) |
+![Tech Stack](https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27HTML%27%2C%27JavaScript%27%2C%27C%23%27%2C%27CSS%27%2C%27TypeScript%27%2C%27Python%27%2C%27SQL%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B38.1%2C20.5%2C17.1%2C13.4%2C7.9%2C2.8%2C0.2%5D%2CbackgroundColor%3A%5B%27%23e34c26%27%2C%27%23f1e05a%27%2C%27%23178600%27%2C%27%23563d7c%27%2C%27%233178c6%27%2C%27%233572A5%27%2C%27%23e38c00%27%5D%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27white%27%7D%7D%7D%7D)
 
 ---
 
