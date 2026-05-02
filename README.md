@@ -23,9 +23,17 @@ Here you'll find my projects, experiments and learning journey in web developmen
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack (Média de Projetos)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=do2anjos&theme=monokai)
+| Linguagem | Porcentagem | Barra de Progresso |
+| :--- | :--- | :--- |
+| **HTML** | 38.1% | ![HTML](https://progress-bar.dev/38/?scale=100&color=e34c26&width=200) |
+| **JavaScript** | 20.5% | ![JS](https://progress-bar.dev/20/?scale=100&color=f1e05a&width=200) |
+| **C#** | 17.1% | ![C#](https://progress-bar.dev/17/?scale=100&color=178600&width=200) |
+| **CSS** | 13.4% | ![CSS](https://progress-bar.dev/13/?scale=100&color=563d7c&width=200) |
+| **TypeScript** | 7.9% | ![TS](https://progress-bar.dev/8/?scale=100&color=3178c6&width=200) |
+| **Python** | 2.8% | ![PY](https://progress-bar.dev/3/?scale=100&color=3572A5&width=200) |
+| **SQL** | 0.2% | ![SQL](https://progress-bar.dev/0/?scale=100&color=e38c00&width=200) |
 
 ---
 
